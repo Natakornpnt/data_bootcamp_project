@@ -5,3 +5,6 @@ https://colab.research.google.com/drive/1SLf0nx4nbajtGlWk1_3OPeW9a2eP4C4I?usp=sh
 
 ## Pao Ying chub and ATM class in seperate worksheets
 https://datalore.jetbrains.com/notebook/58xdxcbpPKywANM1zbA20N/7FveVqL4OQSY3tZcxufemZ/
+
+## Panda library for data working final project of python in BootCamp
+https://datalore.jetbrains.com/notebook/58xdxcbpPKywANM1zbA20N/Bb3JwtKkMma5sjNePdFyHH/
