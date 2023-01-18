@@ -15,3 +15,4 @@ We learn 10 sprints during 4 months
 - Essential Python for Data Analyst
 - Dashboard
 
+Almost of all code is in notebook website such as replit, datalore, and google colab.
